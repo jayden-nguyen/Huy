@@ -1,1 +1,2 @@
 this is huy1.this is the change of huy1. this is diff test 
+. this is staged test
