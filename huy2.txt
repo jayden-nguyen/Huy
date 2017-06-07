@@ -1,4 +1,0 @@
- this is huy 2
- :w
-
-this is changed of huy 2
